@@ -1,0 +1,2 @@
+# Quick Thoughts
+Update major version of HTTP client library
